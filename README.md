@@ -2,13 +2,13 @@
 
 Especialista em **Inteligência Artificial e Automação de Processos**, focado em democratizar o conhecimento de IA no Brasil através de soluções práticas e escaláveis.
 
-## 🚀 O que eu faço
+##  O que eu faço
 
 Atualmente atuo como desenvolvedor na **ProceX AI**, onde projeto e implemento **sistemas multi-agentes** e **automações inteligentes complexas** para empresas de diversos segmentos.
 
 Minha expertise está em transformar processos manuais e repetitivos em fluxos automatizados integrados com IA, permitindo que negócios escalem suas operações de forma inteligente.
 
-## 🛠️ Especialidades
+##  Especialidades
 
 **Automação & Orquestração de IA:**
 - **n8n**: Desenvolvimento de workflows complexos integrando múltiplos agentes de IA, APIs e sistemas empresariais
@@ -30,11 +30,11 @@ Minha expertise está em transformar processos manuais e repetitivos em fluxos a
 - Integração com APIs e plataformas empresariais
 - Otimização de fluxos de trabalho e automação de pipelines
 
-## 📫 Contato
+##  Contato
 
-- 💼 ProceX AI
-- 📍 Campinas, SP - Brasil
+-  ProceX AI
+-  Campinas, SP - Brasil
 
 ---
 
-_Construindo o futuro da automação empresarial com inteligência artificial aplicada._ 🤖
+_Construindo o futuro da automação empresarial com inteligência artificial aplicada._ 
